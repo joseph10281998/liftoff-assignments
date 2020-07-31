@@ -19,6 +19,11 @@ Include at least 3 wireframes here, adding images or files to your repository as
 [WireFrame 3] 
 ![WireFrame 3](./images/WireFrame3.jpg) 
 
+[Schema 1] 
+![Schema 1](./images/schema-part1.jpg) 
+
+[Schema 2] 
+![Schema 2](./images/schema-part2.jpg) 
 
 
 ### Project Tracker
