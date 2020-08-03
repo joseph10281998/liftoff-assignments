@@ -8,6 +8,17 @@ For this assignment you will need to upload your resume and provide links to you
  
 ### GitHub
 Provide a link to your GitHub account here.
+
+
+
+[Link for Resume]
+https://github.com/joseph10281998/liftoff-assignments/tree/master/C1-Online_Profiles/Resume.pdf
+
+
+
+
+
+Resume link: 
  
 ### LinkedIn
 Provide a link to your LinkedIn account here.
